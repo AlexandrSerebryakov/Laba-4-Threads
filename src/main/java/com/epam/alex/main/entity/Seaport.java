@@ -6,4 +6,5 @@ package com.epam.alex.main.entity;
 public class Seaport {
     private int portCapacity;
     private int portNumberContainers;
+    private byte numberBerth;
 }
