@@ -9,6 +9,6 @@ public class SecondBerth extends Seaport implements Runnable {
 
     @Override
     public void run() {
-
+        System.out.println("Second berth");
     }
 }

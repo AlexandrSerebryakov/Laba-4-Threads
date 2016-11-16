@@ -9,6 +9,7 @@ public class FirstBerth extends Seaport implements Runnable {
 
     @Override
     public void run() {
-
+        System.out.println("First berth");
     }
+
 }
