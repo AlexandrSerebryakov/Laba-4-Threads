@@ -8,7 +8,9 @@ import com.epam.alex.main.entity.ThirdBerth;
  * Created by AlexandrSerebryakov on 12.11.2016.
  */
 public class Runner {
-    public  static void main(String[] args) {
+
+
+    public static void main(String[] args) {
         FirstBerth firstBerth = new FirstBerth();
         SecondBerth secondBerth = new SecondBerth();
         ThirdBerth thirdBerth = new ThirdBerth();
